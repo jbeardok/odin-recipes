@@ -1,0 +1,20 @@
+body{
+    background-color: #e9e1b4;
+    color: #355628;
+}
+img{
+    height: auto;
+    width: 200px
+}
+h1{
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+}
+p, ul, ol{
+    font-family:Arial, sans-serif;
+}
+.menu{
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+}
