@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  background-color: #1e2749;
+  margin: 2%;
+}
+
+img {
+  width: 300px;
+  border-radius: 10%;
+}
+
+body,
+a {
+  color: #fafaff;
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:active {
+  color: #30343f;
+}
+
+.caption {
+  font-size: 12px;
+  font-style: italic;
+  margin-top: 0;
+}
